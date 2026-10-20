@@ -1,1 +1,1 @@
-# cs110
+sanctuary run
